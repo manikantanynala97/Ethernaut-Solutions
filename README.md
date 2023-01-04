@@ -66,7 +66,7 @@ Contract Address => https://goerli.etherscan.io/address/0xE5527D1A514F9A8377C102
 
 - Challenge 17 Recovery
 
-Contract Address => 
+Contract Address => https://goerli.etherscan.io/address/0xdaD25aCB1ee52A971ecA91308Ecb7C960636bf8a
 
 - Challenge 18 MagicNumber
 
