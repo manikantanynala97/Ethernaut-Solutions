@@ -82,7 +82,7 @@ Contract Address => https://goerli.etherscan.io/address/0x9371cafcdd7be9e3ac0da0
 
 - Challenge 21 Shop
 
-Contract Address => https://goerli.etherscan.io/address/0x643C7518576662e6aD1AaCaA30878829f20AC7Ea
+Contract Address =>https://goerli.etherscan.io/address/0x643C7518576662e6aD1AaCaA30878829f20AC7Ea
 
 - Challenge 22 Dex
 
