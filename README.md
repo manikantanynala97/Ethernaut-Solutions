@@ -78,7 +78,7 @@ Contract Address =>
 
 - Challenge 20 Denial
 
-Contract Address => 
+Contract Address => https://goerli.etherscan.io/address/0x9371cafcdd7be9e3ac0da0bc66661a530639f3db
 
 - Challenge 21 Shop
 
