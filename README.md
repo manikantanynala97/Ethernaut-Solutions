@@ -74,7 +74,7 @@ Contract Address =>
 
 - Challenge 19 Alien Codex
 
-Contract Address => 
+Contract Address => https://goerli.etherscan.io/address/0xbe5eca4c478eb070c8fc14c7961d6dc060f48351
 
 - Challenge 20 Denial
 
