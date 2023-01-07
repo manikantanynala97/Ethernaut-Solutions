@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
+// https://goerli.etherscan.io/address/0xd367bc4492b045f501554198a742c11f957b4d76
 
 interface IReentrance {
     function donate(address _to) external payable;
