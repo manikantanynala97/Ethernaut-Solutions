@@ -70,7 +70,7 @@ Contract Address => https://goerli.etherscan.io/address/0xdaD25aCB1ee52A971ecA91
 
 - Challenge 18 MagicNumber
 
-Contract Address => 
+Contract Address => https://goerli.etherscan.io/address/0xd2e5e0102e55a5234379dd796b8c641cd5996efd
 
 - Challenge 19 Alien Codex
 
