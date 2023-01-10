@@ -93,17 +93,6 @@ Contract Address =>
 
 Contract Address => 
 
-- Challenge 24 Puzzle Wallet
-
-Contract Address => 
-
-- Challenge 25 MotorBike
-
-Contract Address => 
-
-- Challenge 26 DoubleEntryPoint
-
-Contract Address => 
 
 
 
