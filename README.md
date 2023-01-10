@@ -105,9 +105,6 @@ Contract Address =>
 
 Contract Address => 
 
-- Challenge 27 Good Samaritian
-
-Contract Address => 
 
 
 
