@@ -26,7 +26,7 @@ Contract Address =>
 
 - Challenge 7 Force
 
-Contract Address => 
+Contract Address => https://goerli.etherscan.io/address/0xcaa294bbe1d82feaafaac86c314304e933fe1f60
 
 - Challenge 8 Vault
 
